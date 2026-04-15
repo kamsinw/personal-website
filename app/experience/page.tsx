@@ -15,8 +15,21 @@ interface Role {
 
 const workExperience: Role[] = [
   {
+    company: "Lenovo",
+    title: "XCC Firmware Engineering Intern (Incoming)",
+    location: "Morrisville, NC",
+    period: "Upcoming",
+    color: "#22c55e",
+    bullets: [
+      "Developing embedded firmware in C/C++ for server management controllers, supporting communication across 10+ hardware peripherals including sensors, EEPROM, and power-management devices",
+      "Implementing low-level hardware interfaces using I²C, SPI, and UART for reliable device initialization and hardware monitoring across enterprise server systems",
+      "Building Python-based automation tools to support firmware regression testing and log analysis workflows across hundreds of validation cycles",
+      "Collaborating with firmware and hardware engineers on platform bring-up and debugging, supporting validation of next-generation server hardware prototypes",
+    ],
+  },
+  {
     company: "SEO Tech Developers",
-    title: "Software Engineering Intern",
+    title: "Software Engineering Intern (Incoming)",
     location: "New York, NY",
     period: "Upcoming",
     color: "#33c2cc",

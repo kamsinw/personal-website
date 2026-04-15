@@ -17,6 +17,8 @@ const techStack = [
   "TypeScript",
   "Embedded C",
   "PostgreSQL",
+  "React",
+  "Next.js",
 
 ];
 
